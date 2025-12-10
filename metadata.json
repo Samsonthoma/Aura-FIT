@@ -1,0 +1,8 @@
+{
+  "name": "AURA FIT",
+  "description": "A futuristic, web-based XR-style fitness companion. Features AI-generated adaptive workouts, real-time form analysis via camera snapshots using Gemini, and a glowing 'passthrough' aesthetic interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
